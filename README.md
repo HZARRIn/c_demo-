@@ -1,2 +1,3 @@
 # c_demo-
-thhis is my first project
+this is my first project
+author- Zarrin khan
